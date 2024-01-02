@@ -18,7 +18,7 @@ body {
     width: 500px;
     height: 550px;
     background-color: #1C1C1C;
-    border-radius: 28px;
+    /* border-radius: 28px; */
     overflow: hidden;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -55,7 +55,6 @@ body {
     padding: 20px 10px 10px;
     background-color: transparent;
     border: 2px solid rgba(32, 38, 57.0.9); 
-/*     box-shadow: inset 2px 2px 5px #C7DCA7; */
     outline: none;
     color: #ffffff;
     font-size: 1.3em;
